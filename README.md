@@ -1,3 +1,5 @@
+Team: TensorAI (oneAPI GenAI Hackathon)
+
 Introduction:
 The tool is designed to assist healthcare professionals in efficiently reviewing patient records,
 medical history and generates comprehensive reports in simple language for non-medical
