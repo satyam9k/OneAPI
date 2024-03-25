@@ -38,3 +38,14 @@ Conclusion:
 The tool serves as a valuable asset for healthcare professionals, offering a streamlined
 approach to analyzing and summarizing medical documents. By leveraging advanced
 technology, it facilitates improved patient care and workflow efficiency.
+
+
+
+Demo:
+Input--
+![image](https://github.com/satyam9k/OneAPI/assets/75788300/b5bfef23-9675-4946-9af9-270a5ab230b0)
+
+Output--
+![image](https://github.com/satyam9k/OneAPI/assets/75788300/a2bdccc1-b184-44a8-9e3f-4c1208439ad3)
+
+
